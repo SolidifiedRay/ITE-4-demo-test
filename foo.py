@@ -1,3 +1,3 @@
-VERSION = "foo-v0"
+VERSION = "foo-v1"
 
 print("Hello in-toto")
